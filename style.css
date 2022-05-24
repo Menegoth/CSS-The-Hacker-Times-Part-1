@@ -22,6 +22,12 @@ h1 {
     text-align: center;
 }
 
+nav {
+    position: sticky;
+    top: 0;
+    background: white;
+}
+
 nav ul {
     border-top: solid 3px #eee;
     border-bottom: solid 3px #eee;
